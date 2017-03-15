@@ -2,4 +2,4 @@
 
 echo "Hello! "
 echo `which julia`
-julia -e "println(\"World"\")"
+julia -e "println(\"World\")"
